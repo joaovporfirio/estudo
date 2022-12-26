@@ -1,0 +1,19 @@
+//Herança extend
+
+.btn {
+    width: 200px;
+    padding: 10px 0;
+    background: transparent;
+    border: none;
+    border-radius: 8px;
+
+    // &.btn-laranja {
+    //     background-color: orange;
+    // }
+
+}
+
+.btn-laranja {
+    @extend .btn;
+   
+}
