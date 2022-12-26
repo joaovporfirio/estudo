@@ -1,0 +1,25 @@
+// Nesting - Aninhamento
+// Sass permite aninhar seletores css da mesma forma que HTML
+
+
+p {
+    backdrop-filter: #f00;
+
+    span{
+        color: #fff;
+    }
+
+    b {
+        color: #000;
+        font-size: 12px;
+    }
+
+    &:hover {
+        color: #ccc;
+    }
+}
+
+
+//Herança extend
+
+

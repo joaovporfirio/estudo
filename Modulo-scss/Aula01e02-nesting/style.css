@@ -6,6 +6,10 @@ p span {
 }
 p b {
   color: #000;
+  font-size: 12px;
+}
+p:hover {
+  color: #ccc;
 }
 
 /*# sourceMappingURL=style.css.map */

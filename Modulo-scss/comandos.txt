@@ -1,0 +1,4 @@
+sass style.scss:style.css
+sass --watch style.scss:style.css  -> Começa a compilar o arquivo pré-processado em específico
+sass --watch .  -> Compila todos os arquivos pré-processados
+
