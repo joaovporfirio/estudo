@@ -1,0 +1,23 @@
+@import "../Aula03-herancaExtend/buttons.scss";
+@import "./variaveis.scss";
+
+
+@mixin button-style($background,$color) {
+    background: $background;
+    color: $color;
+}
+
+.btn-laranja {
+    @extend .btn;
+    @include button-style($color-orange, #fff )
+}
+
+.btn-purple {
+    @extend .btn;
+    @include button-style($color-purple, #fff )
+}
+
+.btn-yellow {
+    @extend .btn;
+    @include button-style($color-yellow, #000 )
+}

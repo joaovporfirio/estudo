@@ -1,0 +1,28 @@
+.btn, .btn-yellow, .btn-purple, .btn-laranja {
+  width: 200px;
+  padding: 10px 0;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+}
+
+.btn-laranja {
+  background-color: orange;
+}
+
+.btn-laranja {
+  background: orange;
+  color: #fff;
+}
+
+.btn-purple {
+  background: purple;
+  color: #fff;
+}
+
+.btn-yellow {
+  background: yellow;
+  color: #000;
+}
+
+/*# sourceMappingURL=style.css.map */
