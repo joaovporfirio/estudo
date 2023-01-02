@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Vite
 
 ## 🎯 Objetivos e Desafios 
-Projeto desenvolvido para exercitar habilidades de React.js utilizando a biblioteca Vite. 
+Projeto desenvolvido para exercitar habilidades de React.js utilizando Vite. 
 
 ## 💻 Projeto
 
