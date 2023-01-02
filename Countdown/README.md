@@ -1,7 +1,6 @@
 <h1 align="center"> Countdown com React.js</h1>
 
-<p align="center">
-Desafio 04 - Frontend Mentor</p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
