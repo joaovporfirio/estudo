@@ -19,5 +19,5 @@
 
 .btn-yellow {
     @extend .btn;
-    @include button-style($color-yellow, #000 )
+    @include button-style($color-yellow, #000 ) 
 }
